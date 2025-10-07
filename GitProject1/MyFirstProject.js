@@ -61,4 +61,8 @@ function fullName(firstname,lastname){
 
 fullName("vishal","bokare");
 
+
+
+console.log("Helooo bachhhho ");
+
   
