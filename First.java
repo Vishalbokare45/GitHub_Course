@@ -9,5 +9,15 @@ public class First{
 
         System.out.print("My Name is Vishal");
 
+          First obj=new First();
+          obj.fun();
+
+
+    }
+
+    public  void   fun(){
+
+        System.out.println("This is func method");
+
     }
 }
